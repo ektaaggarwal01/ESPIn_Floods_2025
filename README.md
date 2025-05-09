@@ -15,3 +15,5 @@ Contributors (listed in the alphabetic order of last name):
 
 ## google document link
 https://docs.google.com/document/d/1xIbA3nUK7rYTmnCFi4d1SDGFWnAgqXOj3CmoP0SIK0w/edit?usp=drive_link 
+ ##Flood package
+ https://github.com/r-barnes/richdem.git
