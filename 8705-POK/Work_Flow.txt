@@ -1,0 +1,20 @@
+# Input Data
+1. Topographic data: A virtual topographic data which represents a samll scale river catchment and
+                    has both the steep and flat area in it's drainage area.
+2. Precipitation data: A range of precipitation data that comprise from normal to extreme rainfall
+3. Sediment data: Still not sure whteher we provide sediment data externally or one of the landlab componenet will generate 
+                    using the erosion-deposition funtion.
+
+# Who deoes what
+1. 8705-POK
+2. carol
+3. leiagb
+4. 
+
+
+# some hints to generate the virtual DEM
+A good seed for reproduceable random topography:
+mg_name.add_zeros("node", "topographic__elevation")
+np.random.seed(seed=5000)
+random_noise = (np.random.rand(len(mg_name.node_y)) / 1000.0)
+mg_name["node"]["topographic__elevation"] += random_noise
