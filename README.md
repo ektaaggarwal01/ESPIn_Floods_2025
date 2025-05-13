@@ -1,9 +1,14 @@
-# ESPIn_Floods_2025
-Floods group
+# Channel Evolution ~f(Water) : CSDMS ESPIn 2025 
+
 This is an ESPIn Repository for the ESPIn 2025 team project:
-Contributors (listed in the alphabetic order of last name): 
-- **Name**          *(University of...)*
-- **...**          *(U...)*
+Contributors (listed in alphabetical order of last name): 
+
+- Ekta Aggarwal, University of Southampton, UK
+- Leia Barnes, Lehigh University, Bethlehem, PA, USA,
+- Morgan Carrington, University of Texas at Austin, USA,
+- Prakash Pokhrel, University of Glasgow, UK,
+- Caroline Mierzejewski, Texas State University, San Marcos, TX, USA
+
 
 ## Directory Structure
 ### Main
